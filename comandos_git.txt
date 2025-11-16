@@ -6,7 +6,9 @@ git log       -> mostra todo o histórico de commit
 pwd    -> aonde estou
 git diff <arquivo>   -> 
 git checkout -b <nova branch>   -> criar nova branch, clone do projeto
+git branch -> mostra todas as branch e qual vc está
 git checkout <branch>   -> mudar de branch
+git merge <outra branch>  -> 
 
 
 
