@@ -4,6 +4,12 @@ git add <nome arquivo> -> adiciona arquivo para ser commitado
 git commit -m "msg" -> faz commit do que estava para ser commitado
 git log       -> mostra todo o histórico de commit
 pwd    -> aonde estou
+git diff <arquivo>   -> 
+git checkout -b <nova branch>   -> criar nova branch, clone do projeto
+git checkout <branch>   -> mudar de branch
+
+
+
 
 ## FLUXO DE TRABALHO
 1. criar o diretório (pasta) do projeto
