@@ -1,4 +1,4 @@
-# Projeto de Exemplos de Arquivos e Comandos
+# Projeto de Exemplos de Arquivos e Comandos (branch descrição)
 
 Este repositório contém arquivos de exemplo, comandos básicos de Bash, comandos Git e uma breve explicação de fluxo de trabalho para quem está começando a utilizar terminal e versionamento de código.
 
